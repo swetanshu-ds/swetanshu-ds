@@ -7,6 +7,6 @@
 #- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Gen AI / Data Science / AI
-- 📫 How to reach me: ![](https://www.linkedin.com/in/swetanshu-pandey-54b08a1b8/)
+- 📫 How to reach me: [...](https://www.linkedin.com/in/swetanshu-pandey-54b08a1b8/)
 
 
